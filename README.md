@@ -1,2 +1,2 @@
 # shap-e-rc
-shap-e 
+All shap-e 3d assets
